@@ -1,0 +1,11 @@
+{
+  "apiVersion": 2,
+  "name": "custom/hero-slider",
+  "title": "Hero Slider",
+  "category": "widgets",
+  "icon": "slides",
+  "description": "Hero slider block",
+  "supports": {
+    "html": false
+  }
+}

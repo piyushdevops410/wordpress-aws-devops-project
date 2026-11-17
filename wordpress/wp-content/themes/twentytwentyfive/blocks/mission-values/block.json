@@ -1,0 +1,11 @@
+{
+  "apiVersion": 2,
+  "name": "custom/mission-values",
+  "title": "Mission & Values",
+  "category": "widgets",
+  "icon": "groups",
+  "description": "Mission and values section",
+  "supports": {
+    "html": true
+  }
+}

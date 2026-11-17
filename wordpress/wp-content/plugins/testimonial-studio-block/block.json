@@ -1,0 +1,22 @@
+{
+  "apiVersion": 3,
+  "name": "testimonial-studio/block",
+  "title": "Testimonial Studio",
+  "category": "widgets",
+  "icon": "slides",
+  "description": "A powerful Gutenberg block to display Multiple customer testimonials with a responsive slider and customizable styles.",
+  "editorScript": "file:./index.js",
+  "style": "file:./style.css",
+  "editorStyle": "file:./editor.css",
+
+  "attributes": {
+    "testimonials": {
+      "type": "array",
+      "default": []
+    },
+    "bgColor": {
+      "type": "string",
+      "default": "#f5f5f5"
+    }
+  }
+}

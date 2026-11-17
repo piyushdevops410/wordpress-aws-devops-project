@@ -1,0 +1,14 @@
+/* Outline Button Style */
+.wp-block-button.is-style-outline .wp-block-button__link {
+    background: transparent;
+    border: 2px solid currentColor;
+    color: var(--wp--preset--color--primary);
+}
+
+/* Card Style */
+.wp-block-group.is-style-card {
+    padding: 24px;
+    border-radius: 8px;
+    background: #ffffff;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+}
