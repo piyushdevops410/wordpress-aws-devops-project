@@ -19,6 +19,9 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Windows downloaded file metadata
+*:Zone.Identifier
+
 # Local database and backups
 *.sql
 *.sql.gz
